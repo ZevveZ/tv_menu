@@ -1,4 +1,5 @@
 # 概览
+```
 tv_menu/
 ├── cJSON.c	     //JSON格式的菜单配置
 ├── cJSON.h
@@ -11,7 +12,7 @@ tv_menu/
 ├── m_curses.h
 ├── servo.c          //舵机控制
 └── servo.h
-
+```
 # JSON配置文件示例
 ```
 {
